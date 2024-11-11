@@ -1,0 +1,2 @@
+[scrapy.spiders]
+stocks = stocks_scraper.spiders.stocks:StocksSpider

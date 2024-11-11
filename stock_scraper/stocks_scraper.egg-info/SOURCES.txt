@@ -1,0 +1,14 @@
+setup.py
+stock_scraper/__init__.py
+stock_scraper/items.py
+stock_scraper/middlewares.py
+stock_scraper/pipelines.py
+stock_scraper/settings.py
+stock_scraper/spiders/__init__.py
+stock_scraper/spiders/stock_spider.py
+stocks_scraper.egg-info/PKG-INFO
+stocks_scraper.egg-info/SOURCES.txt
+stocks_scraper.egg-info/dependency_links.txt
+stocks_scraper.egg-info/entry_points.txt
+stocks_scraper.egg-info/requires.txt
+stocks_scraper.egg-info/top_level.txt
